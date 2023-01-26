@@ -104,7 +104,7 @@ Down Counter![image](https://user-images.githubusercontent.com/119393019/2139036
 
 ### TIMING DIGRAMS FOR COUNTER  
 Up Counter![image](https://user-images.githubusercontent.com/119393019/213903633-0161fef4-9875-4376-8b68-680309cf462e.png)
-Down Counterhttps://user-images.githubusercontent.com/118707693/212560294-aa4cf631-8226-49d6-b671-0022384994f1.png
+Down Counter![image](https://user-images.githubusercontent.com/118707693/212560294-aa4cf631-8226-49d6-b671-0022384994f1.png)
 
 
 
